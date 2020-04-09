@@ -8,7 +8,7 @@ Here's our [website](https://www.globalcoralition.org/).
 
 Check our product [prototype](https://www.figma.com/proto/4P2tAJM1wL1SWtjVHvIfqI/Coralition-Hack?node-id=236%3A2&scaling=min-zoom) and [wires](https://www.figma.com/file/4P2tAJM1wL1SWtjVHvIfqI/Coralition-Hack?node-id=0%3A1). 
 
-Get to know us through our [video](https://www.youtube.com/watch?v=V_221qcl2mg).
+Get to know our story and roadmap through our [video](https://www.youtube.com/watch?v=V_221qcl2mg).
 
 Walk through our [deck](https://drive.google.com/file/d/1Bntw1fH8zkNMeaZsAinU2yL6CzfOXgwU/view?usp=sharing) to learn about the current state and roadmap.
 
